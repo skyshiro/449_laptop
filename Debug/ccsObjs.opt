@@ -1,0 +1,1 @@
+"./string_ext.obj" "./main.obj" "./lcd_driver.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
